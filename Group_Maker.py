@@ -1,28 +1,7 @@
 import random as rd
 
-kelas = [
-'Muhammad Rizky Juniarto', 'Raisa Putri Sekar Arum', 
-'Muhammad Fahrul Ramadhan', 'Aylika Rizkia Putri',
-'Stefan Primananda', 'Wildan Zidan Ramadhan', 
-'Siti Nur Vauziyah', 'Adila Fitriani', 'Dwi Larasaty',
-'Nadira Novitasari', 'Elbarra Gifary B', 'Ivan T Akbar', 
-'Muh Fathan Roy', 'Zahra Hasna', 
-'Desy Natalia', 'Isma Khoirunnisa', 'Eirene', 
-'Aldi Dwi Cahyo', 'Lelining Tias', 
-'Oriza Sotifa', 'Luthfiyah Aulia', 'Fika Auliana', 
-'Alifia Nur Annisa', 'Sahla Azkiya', 
-'Nabila Siti Mardiah', 'Wahyu Rahmatulloh', 'Aliya Yamin', 
-'Gunawan W', 'Nur Achmad Subchi', 
-'Mararosa F', 'M Ilham', 'Rizky R N', 'M Akmalul Iman L',
-'Yohanna F M', 'Alliqa Dafa', 'M Alfathan', 
-'Ibnu Abdillah', 'Salwaa R', 'Mayang Indriati', 
-'Sherina Atika Citra', 'Karliana Ageng Wahyuni',
-'Haikal Amjad', 'Miswa Kamila', 'Bayu Widodo', 
-'Haura LZSL', 'Alfin Diaz Fadhila', 'Tarisa Maharani', 
-'Desi Fitriani', 'Lathifa Zahrah'
+kelas = ["Udin", "Ucup", "Feby"
 ]
-
-# print(kelas.index("Lathifa Zahrah"))
 angka = []
 for num in range (0, len(kelas)): angka.append(num)
 # print (len(angka))
