@@ -4,7 +4,6 @@ kelas = ["Udin", "Ucup", "Feby"
 ]
 angka = []
 for num in range (0, len(kelas)): angka.append(num)
-# print (len(angka))
 
 total = int(input(" Berapa Kelompok : "))
 kel = []
@@ -26,7 +25,6 @@ while len(angka) > 0:
     else: 
         count+=1
 
-# print(kel)
 nm = total-1
 for kel_sub in kel:
     print("\n")
