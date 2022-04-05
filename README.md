@@ -1,2 +1,2 @@
 # RandomGroupMaker
-My First Program in python
+This repo contain Automatic Group Maker Using Python
